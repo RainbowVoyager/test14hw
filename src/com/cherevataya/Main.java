@@ -16,9 +16,6 @@ public class Main {
             System.out.println(person);
 
         }
-        System.out.println("I'm just saying that, you know, Andrey, your such an awesome guy.");
-        System.out.println("Thank you so much for being so kind to me. Kudos to you ^^ ");
-        System.out.println("All credit goes to AKadatsky");
     }
 
 }

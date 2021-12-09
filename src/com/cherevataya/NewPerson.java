@@ -6,7 +6,7 @@ import java.util.*;
 
 public class NewPerson {
 
-    public static final int PERSON_COUNT = 100;
+    public static final int PERSON_COUNT = 7;
     private static final Random RANDOM = new Random();
 
     private static final String[] NAMES = {"Alex", "Ben"};
@@ -25,7 +25,7 @@ public class NewPerson {
         return result;
     }
 
-    public void removeDuplicates() {
+    public void deleteIteration() {
         Set<Person> personSet = new HashSet<>(generatePersons());
         //Person.clear();
         //Person.add(set);
